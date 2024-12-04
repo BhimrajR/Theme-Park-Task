@@ -1,0 +1,15 @@
+/workspaces/Theme-Park-Task/Theme Park/bin/Debug/net8.0/Theme Park
+/workspaces/Theme-Park-Task/Theme Park/bin/Debug/net8.0/Theme Park.deps.json
+/workspaces/Theme-Park-Task/Theme Park/bin/Debug/net8.0/Theme Park.runtimeconfig.json
+/workspaces/Theme-Park-Task/Theme Park/bin/Debug/net8.0/Theme Park.dll
+/workspaces/Theme-Park-Task/Theme Park/bin/Debug/net8.0/Theme Park.pdb
+/workspaces/Theme-Park-Task/Theme Park/obj/Debug/net8.0/Theme Park.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Theme-Park-Task/Theme Park/obj/Debug/net8.0/Theme Park.AssemblyInfoInputs.cache
+/workspaces/Theme-Park-Task/Theme Park/obj/Debug/net8.0/Theme Park.AssemblyInfo.cs
+/workspaces/Theme-Park-Task/Theme Park/obj/Debug/net8.0/Theme Park.csproj.CoreCompileInputs.cache
+/workspaces/Theme-Park-Task/Theme Park/obj/Debug/net8.0/Theme Park.sourcelink.json
+/workspaces/Theme-Park-Task/Theme Park/obj/Debug/net8.0/Theme Park.dll
+/workspaces/Theme-Park-Task/Theme Park/obj/Debug/net8.0/refint/Theme Park.dll
+/workspaces/Theme-Park-Task/Theme Park/obj/Debug/net8.0/Theme Park.pdb
+/workspaces/Theme-Park-Task/Theme Park/obj/Debug/net8.0/Theme Park.genruntimeconfig.cache
+/workspaces/Theme-Park-Task/Theme Park/obj/Debug/net8.0/ref/Theme Park.dll
